@@ -21,3 +21,4 @@ jobs:
         with:
           name: mon-application
           path: bin/*.apk
+          
